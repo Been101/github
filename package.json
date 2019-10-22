@@ -1,0 +1,23 @@
+{
+  "name": "readconfig",
+  "version": "1.0.2",
+  "description": "read config json file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Been101/github.git"
+  },
+  "keywords": [
+    "json",
+    "read"
+  ],
+  "author": "@ace",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Been101/github/issues"
+  },
+  "homepage": "https://github.com/Been101/github#readme"
+}
